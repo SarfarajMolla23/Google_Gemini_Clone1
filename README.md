@@ -1,8 +1,8 @@
 # Gemini Clone Using Gemini API 
 
 Tools Used:
-React + vite
-Google gemini Api 
+ 1. React + vite
+ 2. Google gemini Api 
 
 
 
