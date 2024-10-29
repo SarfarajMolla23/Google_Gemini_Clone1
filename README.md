@@ -3,7 +3,7 @@
 Tools Used:
  1. React + vite
  2. Google gemini Api 
-
+ 3. CSS (for styling)
 
 
 Snapshots:
